@@ -1,5 +1,4 @@
 ![](<http://i.imgur.com/w4DSb79.png>)
-
 **Morten Taksrud - Director**
 =============================
 
