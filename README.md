@@ -1,7 +1,5 @@
-**Morten Taksrud**
+**Morten Taksrud, Director**
 ==================
-
-**Director**
 
 ![](<http://i.imgur.com/w4DSb79.png>)
 
