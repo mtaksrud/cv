@@ -1,6 +1,4 @@
-#Curriculum Vitae
-**Morten Taksrud**
-**Director**
+#Curriculum Vitae - Morten Taksrud, Director
 
 Morten has more than 20 years of experience within consulting and IT. He was employed as the Group Architect and Manager of IT operations at the Marine Harvest head office in Oslo Norway where he was responsible for initiating and coordinating global IT initiatives across the different IT departments of the group.
 
