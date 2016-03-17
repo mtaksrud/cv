@@ -9,9 +9,10 @@ Harvest head office in Oslo Norway where he was responsible for initiating
 andcoordinating global IT initiatives across the different IT departments of the
 group.
 
-Recent projects include Trac ID, Altibox, Lyse Produksjon, The Norwegian
-Petroleum Directorate, Wintershall, Kuwait Oil Company, Seadrill Ltd. and
-Statoil.
+Recent projects include [Trac ID](<http://www.tracid.com/>),
+[Altibox](<https://en.wikipedia.org/wiki/Altibox>), Lyse Produksjon, The
+Norwegian Petroleum Directorate, Wintershall, Kuwait Oil Company, Seadrill Ltd.
+and Statoil.
 
 Morten studied Enterprise Architecture at Griffith University in Brisbane
 Australia, and Computer Science at the University of Stavanger Norway.
@@ -342,7 +343,7 @@ Role: SAP Basis Consultant
 
 Upgrade of internal SAP systems from 4.6B to 4.7
 
-### [University of Stavanger (UiS)](<https://en.wikipedia.org/wiki/University_of_Stavanger>) 
+### [University of Stavanger (UiS)](<https://en.wikipedia.org/wiki/University_of_Stavanger>)
 
 (2003-12)
 
