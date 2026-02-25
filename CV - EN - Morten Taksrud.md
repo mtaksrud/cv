@@ -1,7 +1,7 @@
 **Morten Taksrud - Director**
 =============================
 
-![](<https://avatars.githubusercontent.com/u/880148?v=4>)
+![Morten Taksrud](<https://avatars.githubusercontent.com/u/880148?v=4>)
 
 Morten has more than 20 years of experience within consulting and IT. He was
 employed as the Group Architect and Manager of IT operations at the Marine
